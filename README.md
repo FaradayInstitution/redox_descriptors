@@ -2,14 +2,14 @@
 This repository accompanies the publication XYZ. 
 
 # Inventory 
-**(Notebook 1: Classical Electrostatic Analysis)[https://github.com/FaradayInstitution/redox_descriptors/blob/master/Notebooks/Notebook_1-madelung_analysis.ipynb]** 
+**[Notebook 1: Classical Electrostatic Analysis](https://github.com/FaradayInstitution/redox_descriptors/blob/master/Notebooks/Notebook_1-madelung_analysis.ipynb)** 
 
 - Crystal structure analysis to calculate Madelung site potentials for Oxygen.
 - Comparison of LiMO2 and Li2MO3 model systems. 
 - Comparison of local oxygen coordination environments in disordered 128 atom supercells of LiMO2 compounds.
 - Calculation of "hole localization energy" on oxygen vs. transition metal.
 
-**Notebook 2: Quantum Electronic Structure**
+**[Notebook 2: Quantum Electronic Structure](https://github.com/FaradayInstitution/redox_descriptors/blob/master/Notebooks/Notebook_2-DOS_analysis.ipynb)**
 
 - Calculation of contributions of different states to the upper valence band of electronic density of states.
 
