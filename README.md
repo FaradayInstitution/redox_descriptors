@@ -2,7 +2,7 @@
 This repository accompanies the publication XYZ. 
 
 # Inventory 
-**Notebook 1: Classical Electrostatic Analysis** 
+**(Notebook 1: Classical Electrostatic Analysis)[https://github.com/FaradayInstitution/redox_descriptors/blob/master/Notebooks/Notebook_1-madelung_analysis.ipynb]** 
 
 - Crystal structure analysis to calculate Madelung site potentials for Oxygen.
 - Comparison of LiMO2 and Li2MO3 model systems. 
