@@ -1,5 +1,5 @@
 # Background
-This repository accompanies the publication XYZ. 
+This repository accompanies the publication **_Low-cost Descriptors of Electrostatic and Electronic Contributions to Anion Redox Activity in Batteries_**. 
 
 # Inventory 
 **[Notebook 1: Classical Electrostatic Analysis](https://github.com/FaradayInstitution/redox_descriptors/blob/master/Notebooks/Notebook_1-madelung_analysis.ipynb)** 
@@ -22,4 +22,7 @@ This repository accompanies the publication XYZ.
 	- DOS data and plots produced by [sumo](https://github.com/SMTG-UCL/sumo) (`*dos.dat`,`dos.pdf`). 
 	- config files for sumo DOS plotting code (`custom_colors.conf`, `custom.mplstyle`). 
 - `matplotlibrc` - Matplotlib config file used to generate plots (set `text.usetex: False` if LaTeX not installed).
+
+# Requirements
+To run the jupyter notebooks, you will need the Python packages Scipy, Numpy, Matplotlib and Pymatgen. Pymatgen depends on the rest so just `pip install pymatgen`.
 
